@@ -1,4 +1,4 @@
-## About Snake
+## About TypeSnake
 Snake, programmed in TypeScript, stylized like an old LCD screen. Because why not?
 ### [Click here to check it out!](http://apps.introcs.com/idrees/snake/snake)
 
