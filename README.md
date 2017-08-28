@@ -1,6 +1,10 @@
 ## About Snake
 Snake, programmed in TypeScript, stylized like an old LCD screen. Because why not?
 
+[![](http://idreesinc.com/wp-content/uploads/snake.gif)](http://apps.introcs.com/idrees/snake/snake)
+
+### [Click here to check it out!](http://apps.introcs.com/idrees/snake/snake)
+
 ## How to Play
 ### On a Computer
 Just use the arrow keys and try not to hit yourself! (advice for life)
